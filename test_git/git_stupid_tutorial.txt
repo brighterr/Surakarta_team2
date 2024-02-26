@@ -1,0 +1,5 @@
+1.	mit-missing- semester 中文版
+	https://missing-semester-cn.github.io/2020/version-control/ 
+2.	csdiy
+	https://csdiy.wiki/必学工具/Git/#git_2
+
